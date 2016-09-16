@@ -1,10 +1,12 @@
+#!/usr/bin/env python
+
 import random
 import time
 import math
 import matplotlib.pyplot as plt
 import sys
 
-
+"""This version will plot a graph of the results after simulating is done"""
 
 #simulation parameters
 T = start_temp = 1.1

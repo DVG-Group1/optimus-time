@@ -1,7 +1,13 @@
+#!/usr/bin/env python
+
 from Tkinter import *
 import random
 import time
 import math
+
+""" This version will visualize the annealing process in a window on the screen
+WARNING: This may run very slowly if you increase parameters beyond the defaults"""
+
 
 #config options for the screen frame
 canvasH = 600

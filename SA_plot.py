@@ -1,9 +1,12 @@
+#!/usr/bin/env python
+
 import random
 import time
 import math
 # import matplotlib.pyplot as plt
 import sys
 
+"""This version will run in the background and print the results to the console"""
 
 
 #simulation parameters
